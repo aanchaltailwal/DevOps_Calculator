@@ -112,10 +112,10 @@ public class MyCalculator extends Frame {
 
 class MyDigitButton extends Button implements ActionListener  
 		{  
-		Devops_Calculator cl;  
+		MyCalculator cl;  
 		  
 		//////////////////////////////////////////  
-		MyDigitButton(int x,int y, int width,int height,String cap, Devops_Calculator clc)  
+		MyDigitButton(int x,int y, int width,int height,String cap, MyCalculator clc)  
 		{  
 		super(cap);  
 		setBounds(x,y,width,height);  
