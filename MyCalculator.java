@@ -25,7 +25,7 @@ public class MyCalculator extends Frame {
 	final int FRAME_WIDTH=325,FRAME_HEIGHT=325;  
 	final int HEIGHT=30, WIDTH=30, H_SPACE=10,V_SPACE=10;  
 	final int TOPX=30, TOPY=50;  
-	///////////////////////////  
+	// This is a change i have made//  
 	MyCalculator(String frameText)//constructor  
 	{  
 	super(frameText);  
