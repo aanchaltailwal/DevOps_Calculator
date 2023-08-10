@@ -44,8 +44,8 @@ We welcome contributions to enhance the calculator project. Here's how you can c
 - git push origin feature/new-feature
 7. Create a pull request on the main repository from your forked repository.
 
-Contributors
-aanchaltailwal
-shwetasng
-Harsheyss14
-radhikaaathakkar
+## Contributors
+- aanchaltailwal
+- shwetasng
+- Harsheyss14
+- radhikaaathakkar
