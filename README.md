@@ -30,7 +30,7 @@ We welcome contributions to enhance the calculator project. Here's how you can c
 
 2. Clone the forked repository to your local machine:
 
-- git clone https://github.com/your-username/calculator-project.git
+- git clone https://github.com/aanchaltailwal/DevOps_Calculator
 3. Create a new branch for your contribution:
   
 - git checkout -b feature/new-feature
